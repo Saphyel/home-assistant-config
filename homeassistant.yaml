@@ -1,0 +1,12 @@
+name: Hogar
+latitude: !secret latitude_home
+longitude: !secret longitude_home
+elevation: 22
+internal_url: !secret internal_url
+unit_system: metric
+temperature_unit: C
+media_dirs:
+  #music: /srv/Music
+  downloads: /srv/Downloads
+  pictures: /srv/Pictures
+  videos: /srv/Videos
