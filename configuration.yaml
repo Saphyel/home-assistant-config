@@ -15,3 +15,12 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
 sensor: !include sensors.yaml
+lovelace:
+  mode: storage
+  dashboards: 
+    dashboard-documentacion:
+      mode: yaml
+      title: Documentacion
+      icon: mdi:file-document-multiple
+      show_in_sidebar: true
+      filename: documentacion.yaml
