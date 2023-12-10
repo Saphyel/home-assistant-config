@@ -1,0 +1,23 @@
+title: Documentacion
+views:
+  - title: Documentacion
+    cards:
+      - type: markdown
+        title: Contratos
+        content: |
+          * Recargar la [calefaccion](https://lqeltdpayments.paypoint.com/Home/index)
+          * Subir la lectura del [agua fria](https://www.leeputilities.co.uk/submit-meter-reading)
+          * Subir lectura de la [luz](https://octopus.energy/login/)
+          * Enlace para el [internet](https://www.virginmedia.com/my-virgin-media/home)
+
+      - type: markdown
+        title: Inspecciones
+        content: |
+          * La calefaccion fue en:  
+          * Lsa puertas por si hay incendios en: 
+
+      - type: markdown
+        title: Impuestos
+        content: |
+          * Los cargo por servicio esta en ARK
+          * Enlace para el [impuesto municipal](hhttps://mybd.lbbd.gov.uk/)
